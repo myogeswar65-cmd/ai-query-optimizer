@@ -2,8 +2,6 @@
 
 An intelligent AI-based SQL optimization platform that analyzes slow database queries, detects bottlenecks, recommends indexing strategies, rewrites inefficient queries, and predicts performance improvements before deployment.
 
-Built for hackathons, developers, and database performance engineering.
-
 ---
 
 # 📌 Problem Statement
